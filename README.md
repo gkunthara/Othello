@@ -16,3 +16,5 @@ AI Making Move
 <img width="482" alt="screen shot 2017-05-08 at 1 07 36 am" src="https://cloud.githubusercontent.com/assets/9055394/25795815/eee369a8-338b-11e7-8caa-e751f70c2639.png">
 
 
+This will continue until both players run out of turns and the game is over.
+
