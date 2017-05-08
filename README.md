@@ -10,3 +10,9 @@ Welcome Screen
 
 <img width="482" alt="screen shot 2017-05-08 at 1 06 49 am" src="https://cloud.githubusercontent.com/assets/9055394/25795741/92652b94-338b-11e7-91c5-21974e52c3e9.png">
 
+AI Making Move
+
+
+<img width="482" alt="screen shot 2017-05-08 at 1 07 36 am" src="https://cloud.githubusercontent.com/assets/9055394/25795815/eee369a8-338b-11e7-8caa-e751f70c2639.png">
+
+
